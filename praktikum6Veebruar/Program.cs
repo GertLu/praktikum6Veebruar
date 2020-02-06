@@ -12,7 +12,7 @@ namespace praktikum6Veebruar
     public class Program
     {
         
-
+        //see on uus kood
 
         
         public static void Main(string[] args)
